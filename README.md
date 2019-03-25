@@ -5,6 +5,8 @@ This is a fork of the original ConeCastAll extension with added support to speci
 
 The original functionality is still there and the new functionality is added as an overload of the original ConeCastAll method. I am still experimenting a little bit with the new method because occasionally it does not behave as expected, so keep that in mind if you try to use this.
 
+In the future I would like to add LayerMask support to both overloads.
+
 The original project README is below.
 
 #   
